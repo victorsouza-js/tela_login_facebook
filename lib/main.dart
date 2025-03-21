@@ -65,7 +65,7 @@ class Facebook extends StatelessWidget {
             
             Padding(padding: EdgeInsets.only(top: 20)),
             Container(
-              child: Image.network('https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/2048px-Facebook_icon_2013.svg.png',width: 30,),
+              child: Image.network('https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/2048px-Facebook_icon_2013.svg.png',width: 25,),
             ),
           ],
         ),
